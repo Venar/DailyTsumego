@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "date_display": "OCT 14, 2026",
+  "band_key": "beginner",
+  "band_label": "Beginner",
+  "rank_requested": "15k",
+  "rank_display": "15K",
+  "problem_id": "2d57b66c-53ef-4e90-a16e-2cfb46b8434b",
+  "description": "Black to play",
+  "player": "black",
+  "board_size": 19,
+  "crop": {
+    "x": 3,
+    "y": 10,
+    "side": 9
+  },
+  "grid_x": [
+    {
+      "p": 92,
+      "l": "D"
+    },
+    {
+      "p": 132,
+      "l": "E"
+    },
+    {
+      "p": 172,
+      "l": "F"
+    },
+    {
+      "p": 212,
+      "l": "G"
+    },
+    {
+      "p": 252,
+      "l": "H"
+    },
+    {
+      "p": 292,
+      "l": "J"
+    },
+    {
+      "p": 332,
+      "l": "K"
+    },
+    {
+      "p": 372,
+      "l": "L"
+    },
+    {
+      "p": 412,
+      "l": "M"
+    }
+  ],
+  "grid_y": [
+    {
+      "p": 102,
+      "l": "9"
+    },
+    {
+      "p": 142,
+      "l": "8"
+    },
+    {
+      "p": 182,
+      "l": "7"
+    },
+    {
+      "p": 222,
+      "l": "6"
+    },
+    {
+      "p": 262,
+      "l": "5"
+    },
+    {
+      "p": 302,
+      "l": "4"
+    },
+    {
+      "p": 342,
+      "l": "3"
+    },
+    {
+      "p": 382,
+      "l": "2"
+    },
+    {
+      "p": 422,
+      "l": "1"
+    }
+  ],
+  "stones": [
+    {
+      "x": 92,
+      "y": 382,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 302,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 92,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    }
+  ],
+  "moves": [
+    {
+      "x": 212,
+      "y": 422,
+      "c": "B",
+      "n": 1,
+      "coord": "G-1",
+      "r": 14,
+      "ly": 314
+    },
+    {
+      "x": 212,
+      "y": 382,
+      "c": "W",
+      "n": 2,
+      "coord": "G-2",
+      "r": 14,
+      "ly": 338
+    },
+    {
+      "x": 292,
+      "y": 422,
+      "c": "B",
+      "n": 3,
+      "coord": "J-1",
+      "r": 14,
+      "ly": 362
+    }
+  ],
+  "solution_line": [
+    {
+      "n": 1,
+      "c": "B",
+      "coord": "G-1"
+    },
+    {
+      "n": 2,
+      "c": "W",
+      "coord": "G-2"
+    },
+    {
+      "n": 3,
+      "c": "B",
+      "coord": "J-1"
+    }
+  ],
+  "more_moves_label": "",
+  "sgf_content": "(;AB[br]AB[cr]AB[dr]AB[es]AW[er]AW[fr]AW[fq]AW[gq]AB[eq]AB[fp]AB[gp]AB[ep]AB[hq]AB[iq]AW[hr]AW[ir]AB[jq]AB[jr]AW[dq]AW[cq]AW[bq]AW[aq]AW[ar]AW[as]AW[co](;B[gs];W[gr](;B[is]C[CORRECT])(;B[hs];W[is])(;B[js];W[ds];B[hs];W[cs](;B[fs];W[is])(;B[is];W[bs])(;B[bs];W[ds]))(;B[fs];W[ds](;B[is];W[hs])(;B[cs];W[bs])(;B[hs];W[is])(;B[js];W[hs]))(;B[ds];W[bs];B[is];W[cs](;B[hs];W[fs])(;B[fs];W[hs])))(;B[fs];W[gr](;B[gs];W[ds])(;B[hs];W[ds])(;B[js];W[ds]))(;B[ds];W[cs](;B[fs];W[gr];B[is])(;B[gs];W[bs];B[fs];W[gr])(;B[bs];W[fs]))(;B[cs];W[bs])(;B[is];W[gs](;B[ds];W[bs])(;B[js];W[cs];B[hs];W[bs]))(;B[dp];W[ds])(;B[cp];W[ds])(;B[do];W[cp]))"
+}
