@@ -1,112 +1,106 @@
 {
   "schema_version": 1,
-  "date": "2026-10-19",
-  "date_display": "OCT 19, 2026",
+  "date": "2026-10-20",
+  "date_display": "OCT 20, 2026",
   "band_key": "beginner",
   "band_label": "Beginner",
   "rank_requested": "15k",
   "rank_display": "15K",
-  "problem_id": "b28d9519-72fc-4118-902c-e5a53ace054e",
+  "problem_id": "683476ca-2701-4716-b529-5922c82af260",
   "description": "Black to play",
   "player": "black",
   "board_size": 19,
   "crop": {
-    "x": 4,
-    "y": 0,
+    "x": 10,
+    "y": 10,
     "side": 9
   },
   "grid_x": [
     {
       "p": 92,
-      "l": "E"
-    },
-    {
-      "p": 132,
-      "l": "F"
-    },
-    {
-      "p": 172,
-      "l": "G"
-    },
-    {
-      "p": 212,
-      "l": "H"
-    },
-    {
-      "p": 252,
-      "l": "J"
-    },
-    {
-      "p": 292,
-      "l": "K"
-    },
-    {
-      "p": 332,
       "l": "L"
     },
     {
-      "p": 372,
+      "p": 132,
       "l": "M"
     },
     {
-      "p": 412,
+      "p": 172,
       "l": "N"
+    },
+    {
+      "p": 212,
+      "l": "O"
+    },
+    {
+      "p": 252,
+      "l": "P"
+    },
+    {
+      "p": 292,
+      "l": "Q"
+    },
+    {
+      "p": 332,
+      "l": "R"
+    },
+    {
+      "p": 372,
+      "l": "S"
+    },
+    {
+      "p": 412,
+      "l": "T"
     }
   ],
   "grid_y": [
     {
       "p": 102,
-      "l": "19"
+      "l": "9"
     },
     {
       "p": 142,
-      "l": "18"
+      "l": "8"
     },
     {
       "p": 182,
-      "l": "17"
+      "l": "7"
     },
     {
       "p": 222,
-      "l": "16"
+      "l": "6"
     },
     {
       "p": 262,
-      "l": "15"
+      "l": "5"
     },
     {
       "p": 302,
-      "l": "14"
+      "l": "4"
     },
     {
       "p": 342,
-      "l": "13"
+      "l": "3"
     },
     {
       "p": 382,
-      "l": "12"
+      "l": "2"
     },
     {
       "p": 422,
-      "l": "11"
+      "l": "1"
     }
   ],
   "stones": [
     {
-      "x": 172,
-      "y": 342,
+      "x": 372,
+      "y": 382,
       "c": "B",
       "r": 14
     },
     {
-      "x": 252,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 332,
-      "y": 422,
+      "x": 292,
+      "y": 382,
       "c": "B",
       "r": 14
     },
@@ -117,50 +111,32 @@
       "r": 14
     },
     {
-      "x": 252,
-      "y": 422,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 172,
-      "y": 182,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 222,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
+      "x": 372,
       "y": 142,
       "c": "B",
       "r": 14
     },
     {
-      "x": 132,
+      "x": 292,
       "y": 142,
       "c": "B",
       "r": 14
     },
     {
-      "x": 172,
-      "y": 102,
+      "x": 372,
+      "y": 302,
       "c": "B",
       "r": 14
     },
     {
-      "x": 132,
-      "y": 422,
-      "c": "W",
+      "x": 172,
+      "y": 302,
+      "c": "B",
       "r": 14
     },
     {
-      "x": 172,
-      "y": 262,
+      "x": 332,
+      "y": 302,
       "c": "W",
       "r": 14
     },
@@ -171,49 +147,19 @@
       "r": 14
     },
     {
-      "x": 332,
-      "y": 302,
+      "x": 292,
+      "y": 262,
       "c": "W",
       "r": 14
     },
     {
-      "x": 332,
-      "y": 222,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 212,
-      "y": 222,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 132,
-      "y": 222,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 332,
+      "x": 372,
       "y": 182,
       "c": "W",
       "r": 14
     },
     {
-      "x": 292,
-      "y": 142,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 102,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 92,
+      "x": 372,
       "y": 102,
       "c": "W",
       "r": 14
@@ -221,22 +167,107 @@
   ],
   "moves": [
     {
-      "x": 252,
-      "y": 262,
-      "c": "B",
+      "x": 372,
+      "y": 342,
+      "c": "W",
       "n": 1,
-      "coord": "J-15",
+      "coord": "S-3",
       "r": 14,
       "ly": 314
+    },
+    {
+      "x": 412,
+      "y": 342,
+      "c": "B",
+      "n": 2,
+      "coord": "T-3",
+      "r": 14,
+      "ly": 338
+    },
+    {
+      "x": 332,
+      "y": 262,
+      "c": "W",
+      "n": 3,
+      "coord": "R-5",
+      "r": 14,
+      "ly": 362
+    },
+    {
+      "x": 412,
+      "y": 302,
+      "c": "B",
+      "n": 4,
+      "coord": "T-4",
+      "r": 14,
+      "ly": 386
+    },
+    {
+      "x": 372,
+      "y": 262,
+      "c": "W",
+      "n": 5,
+      "coord": "S-5",
+      "r": 14,
+      "ly": 410
+    },
+    {
+      "x": 372,
+      "y": 422,
+      "c": "B",
+      "n": 6,
+      "coord": "S-1",
+      "r": 14,
+      "ly": 434
     }
   ],
   "solution_line": [
     {
       "n": 1,
+      "c": "W",
+      "coord": "S-3"
+    },
+    {
+      "n": 2,
       "c": "B",
-      "coord": "J-15"
+      "coord": "T-3"
+    },
+    {
+      "n": 3,
+      "c": "W",
+      "coord": "R-5"
+    },
+    {
+      "n": 4,
+      "c": "B",
+      "coord": "T-4"
+    },
+    {
+      "n": 5,
+      "c": "W",
+      "coord": "S-5"
+    },
+    {
+      "n": 6,
+      "c": "B",
+      "coord": "S-1"
+    },
+    {
+      "n": 7,
+      "c": "W",
+      "coord": "T-2"
+    },
+    {
+      "n": 8,
+      "c": "B",
+      "coord": "T-1"
+    },
+    {
+      "n": 9,
+      "c": "W",
+      "coord": "T-5"
     }
   ],
-  "more_moves_label": "",
-  "sgf_content": "(;AB[dg]AB[dh]AW[ch]AW[cg]AW[df]AW[de]AW[di]AW[ei]AW[fi]AW[gi]AB[gg]AB[hg]AB[ig]AB[jg]AW[ge]AW[gd]AB[ci]AB[cj]AB[ki]AB[bi]AW[bf]AW[dc]AB[hj]AB[ij]AB[jf]AB[jh]AW[kh]AW[kg]AW[kf]AW[li]AW[kj]AW[jj]AB[ii]AW[kd]AW[fc]AB[gc]AB[hc]AW[hd]AB[id]AB[ic]AW[fd]AB[ib]AW[kc]AB[fb]AB[eb]AB[db]AW[bb]AB[ga]AW[jb]AW[ja]AW[ia]AW[ha]AW[bh]AB[dj]AB[ek]AB[fk]AB[gk]AW[ik]AW[le]AB[hk]AW[jk]AB[ca]AB[ba]AB[ab]AW[bd]AW[ac]AB[cb]AB[cc]AB[cd]AB[ce]AW[cf]AW[dd]AW[be]AW[bc]AW[ea](;B[fh];W[ie])(;B[fg];W[ie])(;B[eh];W[ie])(;B[eg];W[ie])(;B[ef];W[ie])(;B[ie]C[CORRECT])(;B[je]C[CORRECT])(;B[jd]C[CORRECT])(;B[he];W[ie];B[je];W[hf];B[jd])(;B[jc];W[ie](;B[je];W[jd](;B[kb];W[lb];B[ke];W[gb])(;B[if];W[he](;B[kb];W[gb])(;B[ke];W[gb]))(;B[ke];W[gb]))(;B[jd];W[je]))(;B[gh];W[ie])(;B[ff];W[ie])(;B[fa];W[ie])(;B[gb];W[ie])(;B[hb];W[ie])(;B[ji];W[ie])(;B[if]C[CORRECT])(;B[hf];W[ie](;B[je];W[jd];B[he]C[CORRECT])(;B[he];W[je])(;B[jd];W[je]))(;B[ke];W[ie](;B[jd];W[je])(;B[je];W[jd])))"
+  "more_moves_label": "+3 more move(s) in archive",
+  "sgf_content": "(;AW[qp]AW[qq]AW[qr]AB[rr]AB[qs]AB[pr]AB[pq]AB[pp]AW[po]AW[qn]AW[rm]AW[sl]AB[rl]AB[ql]AB[pl]AW[rk]AW[qk]AB[rp]AB[mq]AB[mp]LB[rp:1](;W[rq];B[sq](;W[qo];B[sp](;W[ro];B[rs](;W[sr];B[ss];W[so]C[CORRECT])(;W[so];B[sr]))(;W[so];B[rs];W[sr];B[ss];W[ro]C[CORRECT])(;W[rs];B[ss](;W[ro];B[ps];W[so]C[CORRECT])(;W[so];B[ps];W[ro]C[CORRECT]))(;W[sr];B[ss](;W[ro];B[ps];W[so]C[CORRECT])(;W[so];B[ps];W[ro]C[CORRECT]))(;W[ss];B[rs])(;W[ps];B[os]))(;W[ro];B[qo])(;W[sr];B[qo])(;W[rs];B[qo]))(;W[ro];B[rq])(;W[qo];B[rq])(;W[rn];B[rq])(;W[rs];B[ss](;W[rq];B[sq];W[qo];B[sp](;W[ro];B[ps];W[so]C[CORRECT])(;W[so];B[ps];W[ro]C[CORRECT]))(;W[ro];B[rq]))(;W[ps];B[os])(;W[sr];B[rq])(;W[sp];B[rq]))"
 }
