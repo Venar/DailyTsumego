@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "date_display": "OCT 21, 2026",
+  "band_key": "beginner",
+  "band_label": "Beginner",
+  "rank_requested": "13k",
+  "rank_display": "13K",
+  "problem_id": "82e18d8d-8512-4a82-987f-18d72e180a65",
+  "description": "Black to play",
+  "player": "black",
+  "board_size": 19,
+  "crop": {
+    "x": 10,
+    "y": 7,
+    "side": 9
+  },
+  "grid_x": [
+    {
+      "p": 92,
+      "l": "L"
+    },
+    {
+      "p": 132,
+      "l": "M"
+    },
+    {
+      "p": 172,
+      "l": "N"
+    },
+    {
+      "p": 212,
+      "l": "O"
+    },
+    {
+      "p": 252,
+      "l": "P"
+    },
+    {
+      "p": 292,
+      "l": "Q"
+    },
+    {
+      "p": 332,
+      "l": "R"
+    },
+    {
+      "p": 372,
+      "l": "S"
+    },
+    {
+      "p": 412,
+      "l": "T"
+    }
+  ],
+  "grid_y": [
+    {
+      "p": 102,
+      "l": "12"
+    },
+    {
+      "p": 142,
+      "l": "11"
+    },
+    {
+      "p": 182,
+      "l": "10"
+    },
+    {
+      "p": 222,
+      "l": "9"
+    },
+    {
+      "p": 262,
+      "l": "8"
+    },
+    {
+      "p": 302,
+      "l": "7"
+    },
+    {
+      "p": 342,
+      "l": "6"
+    },
+    {
+      "p": 382,
+      "l": "5"
+    },
+    {
+      "p": 422,
+      "l": "4"
+    }
+  ],
+  "stones": [
+    {
+      "x": 292,
+      "y": 382,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 412,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 372,
+      "y": 262,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 182,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 142,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 102,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 182,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 292,
+      "y": 262,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 292,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 372,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 372,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    }
+  ],
+  "moves": [
+    {
+      "x": 332,
+      "y": 222,
+      "c": "W",
+      "n": 1,
+      "coord": "R-9",
+      "r": 14,
+      "ly": 314
+    },
+    {
+      "x": 372,
+      "y": 222,
+      "c": "B",
+      "n": 2,
+      "coord": "S-9",
+      "r": 14,
+      "ly": 338
+    },
+    {
+      "x": 412,
+      "y": 262,
+      "c": "W",
+      "n": 3,
+      "coord": "T-8",
+      "r": 14,
+      "ly": 362
+    },
+    {
+      "x": 412,
+      "y": 222,
+      "c": "B",
+      "n": 4,
+      "coord": "T-9",
+      "r": 14,
+      "ly": 386
+    },
+    {
+      "x": 412,
+      "y": 382,
+      "c": "W",
+      "n": 5,
+      "coord": "T-5",
+      "r": 14,
+      "ly": 410
+    },
+    {
+      "x": 412,
+      "y": 262,
+      "c": "B",
+      "n": 6,
+      "coord": "T-8",
+      "r": 14,
+      "ly": 434
+    }
+  ],
+  "solution_line": [
+    {
+      "n": 1,
+      "c": "W",
+      "coord": "R-9"
+    },
+    {
+      "n": 2,
+      "c": "B",
+      "coord": "S-9"
+    },
+    {
+      "n": 3,
+      "c": "W",
+      "coord": "T-8"
+    },
+    {
+      "n": 4,
+      "c": "B",
+      "coord": "T-9"
+    },
+    {
+      "n": 5,
+      "c": "W",
+      "coord": "T-5"
+    },
+    {
+      "n": 6,
+      "c": "B",
+      "coord": "T-8"
+    },
+    {
+      "n": 7,
+      "c": "W",
+      "coord": "S-10"
+    },
+    {
+      "n": 8,
+      "c": "B",
+      "coord": "Q-9"
+    },
+    {
+      "n": 9,
+      "c": "W",
+      "coord": "T-10"
+    },
+    {
+      "n": 10,
+      "c": "B",
+      "coord": "R-9"
+    },
+    {
+      "n": 11,
+      "c": "W",
+      "coord": "R-11"
+    }
+  ],
+  "more_moves_label": "+5 more move(s) in archive",
+  "sgf_content": "(;AB[pq]AB[rq]AB[po]AB[oo]AB[qn]AB[rn]AB[sn]AB[sm]AB[rl]AB[ql]AB[qj]AB[pj]AB[oi]AB[oh]AB[pg]AB[qh]AW[og]AW[ng]AW[nh]AW[ni]AW[oj]AW[ok]AW[pl]AW[pm]AW[pn]AW[qm]AW[rm]AW[qo]AW[ro](;W[qk](;B[rk](;W[sl];B[sk](;W[so];B[sl];W[rj];B[pk];W[sj];B[qk];W[qi]C[CORRECT])(;W[rj];B[pk];W[so];B[sl];W[sj];B[qk];W[qi]C[CORRECT]))(;W[rj];B[pk];W[sl];B[sk];W[so];B[sl];W[sj];B[qk];W[qi]C[CORRECT]))(;B[rj];W[so];B[sl];W[rk]C[CORRECT]))(;W[rk];B[qk])(;W[so];B[sl];W[qk];B[rk];W[rj];B[pk](;W[qi];B[ri])(;W[sj];B[ri]))(;W[sl];B[sk](;W[qk];B[rj](;W[pk];B[rk];W[so];B[sl])(;W[so];B[sl];W[pk];B[si];W[rk]))(;W[so];B[sl];W[qk];B[rj];W[pk];B[si];W[rk])))"
+}
