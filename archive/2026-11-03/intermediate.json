@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "date_display": "NOV 3, 2026",
+  "band_key": "intermediate",
+  "band_label": "Intermediate",
+  "rank_requested": "9k",
+  "rank_display": "9K",
+  "problem_id": "d49e5fde-70ab-4545-a510-a7141d17f9dc",
+  "description": "Black to play",
+  "player": "black",
+  "board_size": 19,
+  "crop": {
+    "x": 10,
+    "y": 0,
+    "side": 9
+  },
+  "grid_x": [
+    {
+      "p": 92,
+      "l": "L"
+    },
+    {
+      "p": 132,
+      "l": "M"
+    },
+    {
+      "p": 172,
+      "l": "N"
+    },
+    {
+      "p": 212,
+      "l": "O"
+    },
+    {
+      "p": 252,
+      "l": "P"
+    },
+    {
+      "p": 292,
+      "l": "Q"
+    },
+    {
+      "p": 332,
+      "l": "R"
+    },
+    {
+      "p": 372,
+      "l": "S"
+    },
+    {
+      "p": 412,
+      "l": "T"
+    }
+  ],
+  "grid_y": [
+    {
+      "p": 102,
+      "l": "19"
+    },
+    {
+      "p": 142,
+      "l": "18"
+    },
+    {
+      "p": 182,
+      "l": "17"
+    },
+    {
+      "p": 222,
+      "l": "16"
+    },
+    {
+      "p": 262,
+      "l": "15"
+    },
+    {
+      "p": 302,
+      "l": "14"
+    },
+    {
+      "p": 342,
+      "l": "13"
+    },
+    {
+      "p": 382,
+      "l": "12"
+    },
+    {
+      "p": 422,
+      "l": "11"
+    }
+  ],
+  "stones": [
+    {
+      "x": 332,
+      "y": 182,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 292,
+      "y": 182,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 182,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 292,
+      "y": 222,
+      "c": "W",
+      "r": 14
+    }
+  ],
+  "moves": [
+    {
+      "x": 252,
+      "y": 222,
+      "c": "B",
+      "n": 1,
+      "coord": "P-16",
+      "r": 14,
+      "ly": 314
+    }
+  ],
+  "solution_line": [
+    {
+      "n": 1,
+      "c": "B",
+      "coord": "P-16"
+    }
+  ],
+  "more_moves_label": "",
+  "sgf_content": "(;FF[4]GM[1]SZ[19]AB[qc][pc]AW[oc][pd](;B[od]C[CORRECT])(;B[ob];W[qd])(;B[qd])(;B[mc];W[nc])(;B[nc];W[od];B[ob];W[qd])(;B[pe];W[qd])(;B[qe];W[od]))"
+}
