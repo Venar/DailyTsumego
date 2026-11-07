@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-07",
+  "date_display": "NOV 7, 2026",
+  "band_key": "dan",
+  "band_label": "Dan",
+  "rank_requested": "3d",
+  "rank_display": "3D",
+  "problem_id": "11277370-e3a4-4969-9ed4-c4d2084aebc2",
+  "description": "Black to play",
+  "player": "black",
+  "board_size": 19,
+  "crop": {
+    "x": 10,
+    "y": 10,
+    "side": 9
+  },
+  "grid_x": [
+    {
+      "p": 92,
+      "l": "L"
+    },
+    {
+      "p": 132,
+      "l": "M"
+    },
+    {
+      "p": 172,
+      "l": "N"
+    },
+    {
+      "p": 212,
+      "l": "O"
+    },
+    {
+      "p": 252,
+      "l": "P"
+    },
+    {
+      "p": 292,
+      "l": "Q"
+    },
+    {
+      "p": 332,
+      "l": "R"
+    },
+    {
+      "p": 372,
+      "l": "S"
+    },
+    {
+      "p": 412,
+      "l": "T"
+    }
+  ],
+  "grid_y": [
+    {
+      "p": 102,
+      "l": "9"
+    },
+    {
+      "p": 142,
+      "l": "8"
+    },
+    {
+      "p": 182,
+      "l": "7"
+    },
+    {
+      "p": 222,
+      "l": "6"
+    },
+    {
+      "p": 262,
+      "l": "5"
+    },
+    {
+      "p": 302,
+      "l": "4"
+    },
+    {
+      "p": 342,
+      "l": "3"
+    },
+    {
+      "p": 382,
+      "l": "2"
+    },
+    {
+      "p": 422,
+      "l": "1"
+    }
+  ],
+  "stones": [
+    {
+      "x": 212,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 292,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 382,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 422,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 292,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    }
+  ],
+  "moves": [
+    {
+      "x": 332,
+      "y": 422,
+      "c": "B",
+      "n": 1,
+      "coord": "R-1",
+      "r": 14,
+      "ly": 314
+    },
+    {
+      "x": 372,
+      "y": 422,
+      "c": "W",
+      "n": 2,
+      "coord": "S-1",
+      "r": 14,
+      "ly": 338
+    },
+    {
+      "x": 372,
+      "y": 382,
+      "c": "B",
+      "n": 3,
+      "coord": "S-2",
+      "r": 14,
+      "ly": 362
+    },
+    {
+      "x": 292,
+      "y": 422,
+      "c": "W",
+      "n": 4,
+      "coord": "Q-1",
+      "r": 14,
+      "ly": 386
+    },
+    {
+      "x": 212,
+      "y": 382,
+      "c": "B",
+      "n": 5,
+      "coord": "O-2",
+      "r": 14,
+      "ly": 410
+    },
+    {
+      "x": 252,
+      "y": 422,
+      "c": "W",
+      "n": 6,
+      "coord": "P-1",
+      "r": 14,
+      "ly": 434
+    }
+  ],
+  "solution_line": [
+    {
+      "n": 1,
+      "c": "B",
+      "coord": "R-1"
+    },
+    {
+      "n": 2,
+      "c": "W",
+      "coord": "S-1"
+    },
+    {
+      "n": 3,
+      "c": "B",
+      "coord": "S-2"
+    },
+    {
+      "n": 4,
+      "c": "W",
+      "coord": "Q-1"
+    },
+    {
+      "n": 5,
+      "c": "B",
+      "coord": "O-2"
+    },
+    {
+      "n": 6,
+      "c": "W",
+      "coord": "P-1"
+    },
+    {
+      "n": 7,
+      "c": "B",
+      "coord": "R-1"
+    },
+    {
+      "n": 8,
+      "c": "W",
+      "coord": "Q-1"
+    },
+    {
+      "n": 9,
+      "c": "B",
+      "coord": "P-1"
+    }
+  ],
+  "more_moves_label": "+3 more move(s) in archive",
+  "sgf_content": "(;AW[np]AW[op]AW[pp]AW[rp]AW[lq]AW[qq]AW[lr]AW[or]AW[qr]AW[ns]AB[nq]AB[oq]AB[pq]AB[rq]AB[mr]AB[pr]AB[ms](;B[qs](;W[rs];B[rr](;W[ps];B[nr];W[os];B[qs](;W[ps];B[os]C[CORRECT])(;W[os];B[qp]))(;W[qp](;B[ss](;W[sq];B[os];W[ps];B[nr];W[rs];B[os]C[CORRECT])(;W[ps];B[nr];W[rs];B[os]C[CORRECT]))(;B[sq];W[ps];B[nr];W[os];B[qs];W[os](;B[ps];W[ss])(;B[ss];W[ps];B[or];W[rs]))))(;W[rr];B[os];W[ps];B[nr]C[CORRECT]))(;B[nr];W[os](;B[qs];W[rr];B[ps];W[os])(;B[ps];W[os]))(;B[ps];W[os];B[nr];W[os])(;B[os];W[ps](;B[nr];W[os];B[qs];W[os](;B[rr];W[qp](;B[ps];W[rs];B[ss];W[sq])(;B[sq];W[ps])(;B[ss];W[sq])(;B[rs];W[ps]))(;B[ps];W[rr]))(;B[rr];W[qs];B[nr];W[os])))"
+}
