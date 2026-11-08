@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "date": "2026-11-07",
-  "date_display": "NOV 7, 2026",
+  "date": "2026-11-08",
+  "date_display": "NOV 8, 2026",
   "band_key": "beginner",
   "band_label": "Beginner",
-  "rank_requested": "15k",
-  "rank_display": "15K",
-  "problem_id": "7aa5c301-d937-4b15-a2a7-25617cd18efb",
+  "rank_requested": "14k",
+  "rank_display": "14K",
+  "problem_id": "1707cb98-7263-4262-982a-cca90a4d8311",
   "description": "Black to play",
   "player": "black",
   "board_size": 19,
@@ -93,91 +93,85 @@
   ],
   "stones": [
     {
-      "x": 252,
-      "y": 222,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 132,
-      "y": 262,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 172,
-      "y": 262,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 212,
-      "y": 302,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 212,
+      "x": 372,
       "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 372,
+      "y": 382,
       "c": "B",
       "r": 14
     },
     {
       "x": 292,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 92,
-      "y": 382,
+      "y": 302,
       "c": "B",
       "r": 14
     },
     {
       "x": 252,
-      "y": 382,
+      "y": 302,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 302,
       "c": "B",
       "r": 14
     },
     {
       "x": 172,
-      "y": 302,
-      "c": "W",
+      "y": 342,
+      "c": "B",
       "r": 14
     },
     {
       "x": 132,
       "y": 342,
-      "c": "W",
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 342,
+      "c": "B",
       "r": 14
     },
     {
       "x": 172,
-      "y": 342,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 132,
       "y": 382,
       "c": "W",
       "r": 14
     },
     {
-      "x": 212,
-      "y": 382,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 132,
+      "x": 252,
       "y": 422,
       "c": "W",
       "r": 14
     },
     {
-      "x": 212,
+      "x": 252,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 332,
       "y": 422,
       "c": "W",
       "r": 14
@@ -185,78 +179,97 @@
   ],
   "moves": [
     {
-      "x": 92,
-      "y": 342,
+      "x": 172,
+      "y": 422,
       "c": "B",
       "n": 1,
-      "coord": "A-3",
+      "coord": "C-1",
       "r": 14,
       "ly": 314
     },
     {
-      "x": 92,
-      "y": 302,
+      "x": 132,
+      "y": 382,
       "c": "W",
       "n": 2,
-      "coord": "A-4",
+      "coord": "B-2",
       "r": 14,
       "ly": 338
     },
     {
-      "x": 132,
-      "y": 302,
+      "x": 92,
+      "y": 382,
       "c": "B",
       "n": 3,
-      "coord": "B-4",
+      "coord": "A-2",
       "r": 14,
       "ly": 362
     },
     {
-      "x": 92,
+      "x": 132,
       "y": 422,
       "c": "W",
       "n": 4,
-      "coord": "A-1",
+      "coord": "B-1",
       "r": 14,
       "ly": 386
     },
     {
-      "x": 92,
-      "y": 342,
+      "x": 212,
+      "y": 382,
       "c": "B",
       "n": 5,
-      "coord": "A-3",
+      "coord": "D-2",
       "r": 14,
       "ly": 410
+    },
+    {
+      "x": 212,
+      "y": 422,
+      "c": "W",
+      "n": 6,
+      "coord": "D-1",
+      "r": 14,
+      "ly": 434
     }
   ],
   "solution_line": [
     {
       "n": 1,
       "c": "B",
-      "coord": "A-3"
+      "coord": "C-1"
     },
     {
       "n": 2,
       "c": "W",
-      "coord": "A-4"
+      "coord": "B-2"
     },
     {
       "n": 3,
       "c": "B",
-      "coord": "B-4"
+      "coord": "A-2"
     },
     {
       "n": 4,
       "c": "W",
-      "coord": "A-1"
+      "coord": "B-1"
     },
     {
       "n": 5,
       "c": "B",
-      "coord": "A-3"
+      "coord": "D-2"
+    },
+    {
+      "n": 6,
+      "c": "W",
+      "coord": "D-1"
+    },
+    {
+      "n": 7,
+      "c": "B",
+      "coord": "D-3"
     }
   ],
-  "more_moves_label": "",
-  "sgf_content": "(;GM[1]FF[4]SZ[19]AW[cp][bq][cq][br][dr][bs][ds]AB[en][bo][co][dp][dq][fq][ar][er](;B[aq];W[ap](;B[bp];W[as];B[aq]C[CORRECT])(;B[ao];W[bp]))(;B[bp];W[aq])(;B[as];W[aq])(;B[ap];W[aq]))"
+  "more_moves_label": "+1 more move(s) in archive",
+  "sgf_content": "(;AB[hq][hr][fp][ep][dp][cq][bq]AW[cr][es][er][eq][gr][gs]SZ[19]AB[gq]MULTIGOGM[0](;B[cs];W[br];B[ar](;W[bs];B[dr];W[ds];B[dq]C[CORRECT])(;W[dr];B[bs]C[CORRECT]))(;B[br];W[cs])(;B[dq];W[dr];B[fq];W[fr])(;B[dr];W[dq];B[cs];W[ds])(;B[fr];W[fq](;B[dr];W[dq];B[cs];W[ds])(;B[cs];W[br];B[ar];W[bs];B[dr];W[ds];B[dq]C[CORRECT]))(;B[bs];W[cs]))"
 }
