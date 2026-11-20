@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-20",
+  "date_display": "NOV 20, 2026",
+  "band_key": "dan",
+  "band_label": "Dan",
+  "rank_requested": "4d",
+  "rank_display": "4D",
+  "problem_id": "9449842c-ea6d-4943-96d0-513d7745880e",
+  "description": "Black to play",
+  "player": "black",
+  "board_size": 19,
+  "crop": {
+    "x": 10,
+    "y": 10,
+    "side": 9
+  },
+  "grid_x": [
+    {
+      "p": 92,
+      "l": "L"
+    },
+    {
+      "p": 132,
+      "l": "M"
+    },
+    {
+      "p": 172,
+      "l": "N"
+    },
+    {
+      "p": 212,
+      "l": "O"
+    },
+    {
+      "p": 252,
+      "l": "P"
+    },
+    {
+      "p": 292,
+      "l": "Q"
+    },
+    {
+      "p": 332,
+      "l": "R"
+    },
+    {
+      "p": 372,
+      "l": "S"
+    },
+    {
+      "p": 412,
+      "l": "T"
+    }
+  ],
+  "grid_y": [
+    {
+      "p": 102,
+      "l": "9"
+    },
+    {
+      "p": 142,
+      "l": "8"
+    },
+    {
+      "p": 182,
+      "l": "7"
+    },
+    {
+      "p": 222,
+      "l": "6"
+    },
+    {
+      "p": 262,
+      "l": "5"
+    },
+    {
+      "p": 302,
+      "l": "4"
+    },
+    {
+      "p": 342,
+      "l": "3"
+    },
+    {
+      "p": 382,
+      "l": "2"
+    },
+    {
+      "p": 422,
+      "l": "1"
+    }
+  ],
+  "stones": [
+    {
+      "x": 412,
+      "y": 302,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 302,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 372,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 332,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 382,
+      "c": "W",
+      "r": 14
+    }
+  ],
+  "moves": [
+    {
+      "x": 292,
+      "y": 382,
+      "c": "B",
+      "n": 1,
+      "coord": "Q-2",
+      "r": 14,
+      "ly": 314
+    },
+    {
+      "x": 292,
+      "y": 342,
+      "c": "W",
+      "n": 2,
+      "coord": "Q-3",
+      "r": 14,
+      "ly": 338
+    },
+    {
+      "x": 292,
+      "y": 422,
+      "c": "B",
+      "n": 3,
+      "coord": "Q-1",
+      "r": 14,
+      "ly": 362
+    },
+    {
+      "x": 412,
+      "y": 342,
+      "c": "W",
+      "n": 4,
+      "coord": "T-3",
+      "r": 14,
+      "ly": 386
+    },
+    {
+      "x": 372,
+      "y": 422,
+      "c": "B",
+      "n": 5,
+      "coord": "S-1",
+      "r": 14,
+      "ly": 410
+    },
+    {
+      "x": 412,
+      "y": 422,
+      "c": "W",
+      "n": 6,
+      "coord": "T-1",
+      "r": 14,
+      "ly": 434
+    }
+  ],
+  "solution_line": [
+    {
+      "n": 1,
+      "c": "B",
+      "coord": "Q-2"
+    },
+    {
+      "n": 2,
+      "c": "W",
+      "coord": "Q-3"
+    },
+    {
+      "n": 3,
+      "c": "B",
+      "coord": "Q-1"
+    },
+    {
+      "n": 4,
+      "c": "W",
+      "coord": "T-3"
+    },
+    {
+      "n": 5,
+      "c": "B",
+      "coord": "S-1"
+    },
+    {
+      "n": 6,
+      "c": "W",
+      "coord": "T-1"
+    },
+    {
+      "n": 7,
+      "c": "B",
+      "coord": "T-2"
+    }
+  ],
+  "more_moves_label": "+1 more move(s) in archive",
+  "sgf_content": "(;AB[sp]AB[rp]AB[qp]AB[pp]AW[rq]AW[rr]AW[qq]AW[or]AW[nr]AB[nq]AB[oq]AB[mq]AB[lr](;B[pr];W[pq](;B[ps];W[sq];B[rs];W[ss];B[sr]C[CORRECT])(;B[qs](;W[rs];B[sq];W[os])(;W[qr];B[rs];W[ps];B[sr];W[ss])))(;B[sq];W[sr](;B[pr];W[pq];B[qs];W[qr];B[ps];W[os])(;B[pq];W[pr];B[qs];W[rs])(;B[rs];W[qs];B[pr];W[pq]))(;B[pq];W[pr];B[rs];W[sr];B[ps];W[qr];B[qs];W[ns])(;B[ns];W[pr](;B[sq];W[sr];B[qs];W[rs])(;B[qs];W[rs];B[sq];W[sr]))(;B[ps];W[pr](;B[rs];W[sr];B[qs];W[ns])(;B[sq];W[qs])(;B[qs];W[rs]))(;B[qs];W[rs];B[pr];W[pq];B[sq];W[os];B[sr];W[ps])(;B[rs];W[pr](;B[sr];W[sq])(;B[qs];W[sq];B[ss];W[ns];B[ps];W[qr]))(;B[sr];W[pr];B[qs];W[sq];B[rs];W[ps]))"
+}
