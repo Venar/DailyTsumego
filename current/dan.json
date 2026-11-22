@@ -1,106 +1,106 @@
 {
   "schema_version": 1,
-  "date": "2026-11-21",
-  "date_display": "NOV 21, 2026",
+  "date": "2026-11-22",
+  "date_display": "NOV 22, 2026",
   "band_key": "dan",
   "band_label": "Dan",
-  "rank_requested": "4d",
-  "rank_display": "4D",
-  "problem_id": "0cc4927b-34cd-42a9-aafe-b96a338a4849",
+  "rank_requested": "3d",
+  "rank_display": "3D",
+  "problem_id": "6ecbf8a4-6bd5-4f36-a311-011f9995fe7b",
   "description": "Black to play",
   "player": "black",
   "board_size": 19,
   "crop": {
-    "x": 10,
-    "y": 0,
+    "x": 7,
+    "y": 10,
     "side": 9
   },
   "grid_x": [
     {
       "p": 92,
-      "l": "L"
+      "l": "H"
     },
     {
       "p": 132,
-      "l": "M"
+      "l": "J"
     },
     {
       "p": 172,
-      "l": "N"
+      "l": "K"
     },
     {
       "p": 212,
-      "l": "O"
+      "l": "L"
     },
     {
       "p": 252,
-      "l": "P"
+      "l": "M"
     },
     {
       "p": 292,
-      "l": "Q"
+      "l": "N"
     },
     {
       "p": 332,
-      "l": "R"
+      "l": "O"
     },
     {
       "p": 372,
-      "l": "S"
+      "l": "P"
     },
     {
       "p": 412,
-      "l": "T"
+      "l": "Q"
     }
   ],
   "grid_y": [
     {
       "p": 102,
-      "l": "19"
+      "l": "9"
     },
     {
       "p": 142,
-      "l": "18"
+      "l": "8"
     },
     {
       "p": 182,
-      "l": "17"
+      "l": "7"
     },
     {
       "p": 222,
-      "l": "16"
+      "l": "6"
     },
     {
       "p": 262,
-      "l": "15"
+      "l": "5"
     },
     {
       "p": 302,
-      "l": "14"
+      "l": "4"
     },
     {
       "p": 342,
-      "l": "13"
+      "l": "3"
     },
     {
       "p": 382,
-      "l": "12"
+      "l": "2"
     },
     {
       "p": 422,
-      "l": "11"
+      "l": "1"
     }
   ],
   "stones": [
     {
-      "x": 172,
-      "y": 182,
+      "x": 92,
+      "y": 342,
       "c": "B",
       "r": 14
     },
     {
-      "x": 172,
-      "y": 222,
+      "x": 132,
+      "y": 342,
       "c": "B",
       "r": 14
     },
@@ -112,68 +112,14 @@
     },
     {
       "x": 212,
-      "y": 262,
+      "y": 302,
       "c": "B",
       "r": 14
     },
     {
-      "x": 252,
-      "y": 142,
+      "x": 372,
+      "y": 302,
       "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 182,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 222,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 262,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 292,
-      "y": 142,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 292,
-      "y": 262,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 292,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 332,
-      "y": 262,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 332,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 92,
-      "y": 182,
-      "c": "W",
       "r": 14
     },
     {
@@ -184,204 +130,103 @@
     },
     {
       "x": 132,
-      "y": 142,
+      "y": 302,
       "c": "W",
       "r": 14
     },
     {
       "x": 132,
-      "y": 302,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 172,
-      "y": 142,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 172,
-      "y": 342,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 212,
-      "y": 142,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 212,
-      "y": 222,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 302,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 342,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 252,
       "y": 382,
       "c": "W",
       "r": 14
     },
     {
       "x": 292,
-      "y": 182,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 292,
-      "y": 422,
+      "y": 342,
       "c": "W",
       "r": 14
     },
     {
       "x": 332,
-      "y": 142,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 332,
-      "y": 182,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 222,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 382,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 422,
+      "y": 262,
       "c": "W",
       "r": 14
     }
   ],
   "moves": [
     {
-      "x": 412,
-      "y": 302,
+      "x": 252,
+      "y": 382,
       "c": "B",
       "n": 1,
-      "coord": "T-14",
+      "coord": "M-2",
       "r": 14,
       "ly": 314
     },
     {
-      "x": 412,
-      "y": 182,
+      "x": 292,
+      "y": 382,
       "c": "W",
       "n": 2,
-      "coord": "T-17",
+      "coord": "N-2",
       "r": 14,
       "ly": 338
     },
     {
-      "x": 372,
-      "y": 142,
+      "x": 212,
+      "y": 422,
       "c": "B",
       "n": 3,
-      "coord": "S-18",
+      "coord": "L-1",
       "r": 14,
       "ly": 362
     },
     {
-      "x": 372,
-      "y": 102,
+      "x": 252,
+      "y": 342,
       "c": "W",
       "n": 4,
-      "coord": "S-19",
+      "coord": "M-3",
       "r": 14,
       "ly": 386
     },
     {
-      "x": 412,
-      "y": 142,
+      "x": 172,
+      "y": 382,
       "c": "B",
       "n": 5,
-      "coord": "T-18",
+      "coord": "K-2",
       "r": 14,
       "ly": 410
-    },
-    {
-      "x": 412,
-      "y": 262,
-      "c": "W",
-      "n": 6,
-      "coord": "T-15",
-      "r": 14,
-      "ly": 434
     }
   ],
   "solution_line": [
     {
       "n": 1,
       "c": "B",
-      "coord": "T-14"
+      "coord": "M-2"
     },
     {
       "n": 2,
       "c": "W",
-      "coord": "T-17"
+      "coord": "N-2"
     },
     {
       "n": 3,
       "c": "B",
-      "coord": "S-18"
+      "coord": "L-1"
     },
     {
       "n": 4,
       "c": "W",
-      "coord": "S-19"
+      "coord": "M-3"
     },
     {
       "n": 5,
       "c": "B",
-      "coord": "T-18"
-    },
-    {
-      "n": 6,
-      "c": "W",
-      "coord": "T-15"
-    },
-    {
-      "n": 7,
-      "c": "B",
-      "coord": "S-15"
-    },
-    {
-      "n": 8,
-      "c": "W",
-      "coord": "S-14"
-    },
-    {
-      "n": 9,
-      "c": "B",
-      "coord": "T-16"
+      "coord": "K-2"
     }
   ],
-  "more_moves_label": "+3 more move(s) in archive",
-  "sgf_content": "(;FF[4]GM[1]SZ[19]AB[mc][md][me][ne][ob][oc][od][oe][pb][pe][pg][qe][qg]AW[kc][ke][lb][lf][mb][mg][nb][nd][of][og][oh][pc][pi][qb][qc][rd][rh][ri](;B[sf](;W[sc](;B[rb];W[ra];B[sb];W[se];B[re];W[rf];B[sd]C[CORRECT])(;B[re];W[rb];B[rg];W[nc])(;B[ra];W[se];B[re];W[rf];B[sd]C[CORRECT])(;B[qa];W[ra];B[rb];W[pa];B[oa];W[sb]))(;W[se](;B[re];W[sd];B[rg];W[sb];B[nc]C[CORRECT])(;B[rf];W[rb](;B[pf];W[nc])(;B[nc];W[pf])))(;W[re];B[rb];W[ra];B[sc];W[rf];B[rg];W[se];B[sg];W[qd]C[CORRECT]))(;B[re];W[sd];B[rg];W[sb];B[nc];W[pf])(;B[rg];W[re])(;B[rf];W[rb];B[sc];W[se])(;B[rb];W[ra](;B[sf];W[sb])(;B[sb];W[se]))(;B[se];W[rb](;B[re];W[sd];B[nc];W[rg];B[rf];W[pf])(;B[sc];W[re];B[rf];W[sd](;B[sb];W[sf];B[sg];W[rg];B[se];W[sh])(;B[qa];W[sf];B[sg];W[rg];B[se];W[sh]))))"
+  "more_moves_label": "",
+  "sgf_content": "(;AB[fr]AB[hr]AB[hq]AB[hp]AB[iq]AB[io]AB[jo]AB[kn]AB[kp]AB[lp]AB[op]AB[oq]AB[qp]AW[dr]AW[fp]AW[do]AW[go]AW[ho]AW[jp]AW[ip]AW[jq]AW[ir]AW[kr]AW[mq]AW[np]AW[no]TR[hr]TR[hq]TR[hp]TR[iq](;B[lr](;W[mr](;B[ks];W[lq];B[jr]C[CORRECT](;W[js];B[kq];W[ls];B[jr]C[CORRECT])(;W[kq];B[is];W[ls];B[js]TR[io]TR[jo]TR[kp]TR[lp]TR[kn]C[CORRECT]))(;B[kq];W[jr];B[lq];W[ls](;B[hs];W[ks])(;B[is];W[ks])(;B[ms];W[ns];B[ks];W[js];B[hs];W[ms])(;B[ks];W[js];B[hs];W[ms]))(;B[is];W[jr](;B[lq];W[ls];B[ks];W[js](;B[kq];W[hs])(;B[hs];W[ms]))(;B[ls];W[lq](;B[ks];W[ms])(;B[kq];W[ms]))(;B[kq];W[lq];B[ks];W[ls]))(;B[js];W[jr](;B[ls];W[lq])(;B[lq];W[ls];B[ks];W[is];B[ks];W[js](;B[hs];W[ms])(;B[kq];W[ms])))(;B[ls];W[lq](;B[kq];W[jr];B[is];W[ms])(;B[jr];W[js](;B[kq];W[jr])(;B[hs];W[kq]))(;B[is];W[jr](;B[kq];W[ms])(;B[ks];W[ms])(;B[js];W[ms])))(;B[lq];W[ls](;B[jr];W[js];B[kq];W[jr];B[hs];W[ms])(;B[kq];W[jr](;B[is];W[ks])(;B[ks];W[js];B[hs];W[ms])(;B[hs];W[ks])(;B[ms];W[ns];B[ks];W[js];B[hs];W[ms]))(;B[js];W[ks])(;B[is];W[ks])))(;W[lq];B[kq];W[jr];B[mr];W[nr];B[nq];W[mp](;B[or]C[CORRECT])(;B[ns]C[CORRECT]))(;W[kq];B[lq];W[js];B[ls];W[ks];B[hs]C[CORRECT]))(;B[lq];W[lr])(;B[is];W[jr];B[lr];W[lq];B[ks];W[mr];B[js];W[ls])(;B[mr];W[lr];B[lq];W[nr];B[nq];W[mp];B[or];W[ms])(;B[jr];W[js](;B[lr];W[mr]MA[lq]MA[ls])(;B[kq];W[jr];B[lr];W[mr])(;B[lq];W[lr]))(;B[kq];W[jr](;B[lr];W[mr];B[lq];W[ls](;B[hs];W[ks])(;B[is];W[ks])(;B[ms];W[ns];B[ks];W[js];B[hs];W[ms])(;B[ks];W[js];B[hs];W[ms]))(;B[mr];W[lr])(;B[lq];W[lr])(;B[nq];W[mp])))"
 }
