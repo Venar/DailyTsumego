@@ -1,215 +1,149 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
-  "date_display": "NOV 25, 2026",
+  "date": "2026-11-26",
+  "date_display": "NOV 26, 2026",
   "band_key": "dan",
   "band_label": "Dan",
-  "rank_requested": "4d",
-  "rank_display": "4D",
-  "problem_id": "c8181bf5-6007-48c7-be21-265d7ea7928f",
+  "rank_requested": "2d",
+  "rank_display": "2D",
+  "problem_id": "a806aaec-1caf-484b-879b-44bd0d863b3c",
   "description": "Black to play",
   "player": "black",
-  "board_size": 13,
+  "board_size": 19,
   "crop": {
-    "x": 4,
-    "y": 1,
+    "x": 9,
+    "y": 10,
     "side": 9
   },
   "grid_x": [
     {
       "p": 92,
-      "l": "E"
-    },
-    {
-      "p": 132,
-      "l": "F"
-    },
-    {
-      "p": 172,
-      "l": "G"
-    },
-    {
-      "p": 212,
-      "l": "H"
-    },
-    {
-      "p": 252,
-      "l": "J"
-    },
-    {
-      "p": 292,
       "l": "K"
     },
     {
-      "p": 332,
+      "p": 132,
       "l": "L"
     },
     {
-      "p": 372,
+      "p": 172,
       "l": "M"
     },
     {
-      "p": 412,
+      "p": 212,
       "l": "N"
+    },
+    {
+      "p": 252,
+      "l": "O"
+    },
+    {
+      "p": 292,
+      "l": "P"
+    },
+    {
+      "p": 332,
+      "l": "Q"
+    },
+    {
+      "p": 372,
+      "l": "R"
+    },
+    {
+      "p": 412,
+      "l": "S"
     }
   ],
   "grid_y": [
     {
       "p": 102,
-      "l": "12"
-    },
-    {
-      "p": 142,
-      "l": "11"
-    },
-    {
-      "p": 182,
-      "l": "10"
-    },
-    {
-      "p": 222,
       "l": "9"
     },
     {
-      "p": 262,
+      "p": 142,
       "l": "8"
     },
     {
-      "p": 302,
+      "p": 182,
       "l": "7"
     },
     {
-      "p": 342,
+      "p": 222,
       "l": "6"
     },
     {
-      "p": 382,
+      "p": 262,
       "l": "5"
     },
     {
-      "p": 422,
+      "p": 302,
       "l": "4"
+    },
+    {
+      "p": 342,
+      "l": "3"
+    },
+    {
+      "p": 382,
+      "l": "2"
+    },
+    {
+      "p": 422,
+      "l": "1"
     }
   ],
   "stones": [
     {
       "x": 372,
-      "y": 382,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 412,
-      "y": 382,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 332,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 332,
-      "y": 382,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 292,
-      "y": 302,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 212,
       "y": 262,
       "c": "B",
       "r": 14
     },
     {
-      "x": 292,
-      "y": 142,
+      "x": 332,
+      "y": 222,
       "c": "B",
       "r": 14
     },
     {
-      "x": 252,
-      "y": 142,
+      "x": 332,
+      "y": 342,
       "c": "B",
       "r": 14
     },
     {
       "x": 172,
-      "y": 182,
+      "y": 382,
       "c": "B",
       "r": 14
     },
     {
-      "x": 252,
-      "y": 102,
+      "x": 92,
+      "y": 342,
       "c": "B",
       "r": 14
     },
     {
-      "x": 252,
-      "y": 182,
+      "x": 132,
+      "y": 302,
       "c": "B",
       "r": 14
     },
     {
-      "x": 332,
-      "y": 182,
+      "x": 212,
+      "y": 262,
       "c": "B",
       "r": 14
     },
     {
-      "x": 332,
-      "y": 142,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 142,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
+      "x": 292,
       "y": 262,
       "c": "B",
       "r": 14
     },
     {
       "x": 212,
-      "y": 222,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 222,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 292,
-      "y": 182,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 412,
       "y": 102,
-      "c": "W",
+      "c": "B",
       "r": 14
     },
     {
@@ -219,32 +153,32 @@
       "r": 14
     },
     {
-      "x": 332,
-      "y": 102,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 102,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 182,
+      "x": 412,
+      "y": 302,
       "c": "W",
       "r": 14
     },
     {
       "x": 412,
-      "y": 142,
+      "y": 222,
       "c": "W",
       "r": 14
     },
     {
-      "x": 332,
-      "y": 222,
+      "x": 132,
+      "y": 342,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 302,
       "c": "W",
       "r": 14
     },
@@ -256,75 +190,87 @@
     },
     {
       "x": 332,
-      "y": 302,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 372,
-      "y": 302,
+      "y": 182,
       "c": "W",
       "r": 14
     },
     {
       "x": 292,
       "y": 102,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 222,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 102,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 382,
       "c": "W",
       "r": 14
     }
   ],
   "moves": [
     {
-      "x": 412,
-      "y": 342,
+      "x": 212,
+      "y": 382,
       "c": "B",
       "n": 1,
-      "coord": "N-6",
+      "coord": "N-2",
       "r": 14,
       "ly": 314
     },
     {
-      "x": 412,
-      "y": 302,
+      "x": 292,
+      "y": 342,
       "c": "W",
       "n": 2,
-      "coord": "N-7",
+      "coord": "P-3",
       "r": 14,
       "ly": 338
     },
     {
-      "x": 332,
-      "y": 262,
+      "x": 212,
+      "y": 342,
       "c": "B",
       "n": 3,
-      "coord": "L-8",
+      "coord": "N-3",
       "r": 14,
       "ly": 362
     },
     {
-      "x": 372,
-      "y": 262,
+      "x": 292,
+      "y": 302,
       "c": "W",
       "n": 4,
-      "coord": "M-8",
+      "coord": "P-4",
       "r": 14,
       "ly": 386
     },
     {
-      "x": 412,
-      "y": 222,
+      "x": 292,
+      "y": 382,
       "c": "B",
       "n": 5,
-      "coord": "N-9",
+      "coord": "P-2",
       "r": 14,
       "ly": 410
     },
     {
-      "x": 412,
-      "y": 182,
+      "x": 132,
+      "y": 262,
       "c": "W",
       "n": 6,
-      "coord": "N-10",
+      "coord": "L-5",
       "r": 14,
       "ly": 434
     }
@@ -333,49 +279,39 @@
     {
       "n": 1,
       "c": "B",
-      "coord": "N-6"
+      "coord": "N-2"
     },
     {
       "n": 2,
       "c": "W",
-      "coord": "N-7"
+      "coord": "P-3"
     },
     {
       "n": 3,
       "c": "B",
-      "coord": "L-8"
+      "coord": "N-3"
     },
     {
       "n": 4,
       "c": "W",
-      "coord": "M-8"
+      "coord": "P-4"
     },
     {
       "n": 5,
       "c": "B",
-      "coord": "N-9"
+      "coord": "P-2"
     },
     {
       "n": 6,
       "c": "W",
-      "coord": "N-10"
+      "coord": "L-5"
     },
     {
       "n": 7,
       "c": "B",
-      "coord": "M-9"
-    },
-    {
-      "n": 8,
-      "c": "W",
-      "coord": "N-8"
-    },
-    {
-      "n": 9,
-      "c": "B",
-      "coord": "M-9"
+      "coord": "Q-2"
     }
   ],
-  "more_moves_label": "+3 more move(s) in archive",
-  "sgf_content": "(;FF[4]GM[1]SZ[13]AB[li][mi][kh][ki][jg][ih][hf][jc][ic][gd][ja][ia][ib][la][id][kd][kc][lc][if]AW[ie][jd][mb][lh][kb][lb][ka][ld][mc][ke][je][kg][lg][jb]AB[he]AN[2](;B[mh];W[mg](;B[kf];W[lf](;B[me];W[md];B[le];W[mf];B[le]C[CORRECT])(;B[jf];W[le]))(;B[le];W[me])(;B[me];W[le](;B[kf];W[jf])(;B[md];W[mf])(;B[jf];W[kf]))(;B[lf];W[kf];B[le];W[me]))(;B[le];W[me])(;B[kf];W[lf](;B[jf];W[le])(;B[le];W[me])(;B[me];W[le];B[md];W[mf];B[md];W[me]))(;B[jf];W[le])(;B[mf];W[le])(;B[me];W[le];B[mg];W[mh];B[lf];W[kf];B[jf];W[mf])(;B[lf];W[kf](;B[le];W[md];B[mg];W[mf])(;B[mg];W[le])(;B[me];W[le]))(;B[mg];W[lf](;B[mh];W[jf])(;B[me];W[md])(;B[jf];W[mh])))"
+  "more_moves_label": "+1 more move(s) in archive",
+  "sgf_content": "(;AW[qq]AW[qr]AW[rp]AW[ro]AW[rn]AW[qn]AB[qo]AB[po]AB[pn]AB[pp]AB[pq]AB[nq]AB[lr]AB[kr]AB[jq]AB[iq]AW[ip]AW[jp]AB[kp]AW[kq]AW[lq]AW[lp]AW[np]AW[mp]AB[mo]AB[no]AB[oo]AB[mm]AW[on]AW[om]AW[pm]AW[ol]AW[ok]AB[mk]AW[kn]AW[ho]AW[hn]AB[gq]AB[hr]AW[ni]AW[nj]AW[li]AW[kj]AW[kk]AW[jm]AW[nr]TR[pq]TR[lr](;B[mr];W[oq](;B[mq](;W[op](;B[or](;W[ko](;B[pr]C[CORRECT])(;B[lo]C[CORRECT]))(;W[pr];B[lo])(;W[lo];B[pr]))(;B[pr];W[or])(;B[lo];W[or])(;B[ko];W[pr]))(;W[or](;B[op];W[ko];B[pr];W[ps](;B[ns]C[CORRECT])(;B[os]C[CORRECT])(;B[qs]C[CORRECT]))(;B[pr];W[op])(;B[lo];W[op])))(;B[or];W[mq](;B[ns];W[pr])(;B[pr];W[ns])(;B[lo];W[ko])(;B[op];W[ns]))(;B[op];W[mq](;B[or];W[pr])(;B[pr];W[ns]))(;B[pr];W[mq]))(;B[mq];W[mr];B[oq];W[or];B[pr];W[ps];B[os];W[ns];B[ls];W[qs])(;B[ko];W[mr](;B[or];W[lo])(;B[oq];W[mq];B[lo];W[or])(;B[lo];W[or]))(;B[or];W[mr](;B[oq];W[mq])(;B[ns];W[ms])(;B[lo];W[ko])(;B[ko];W[lo]))(;B[oq];W[mr];B[mq];W[or];B[pr];W[ps];B[os];W[ns];B[ls];W[qs])(;B[pr];W[mr])(;B[ms];W[mr])(;B[ns];W[mr];B[ms];W[or])(;B[lo];W[mr](;B[oq];W[mq];B[ko];W[or])(;B[ko];W[or])(;B[or];W[ko]))(;B[op];W[mr])(;B[os];W[mr]))"
 }

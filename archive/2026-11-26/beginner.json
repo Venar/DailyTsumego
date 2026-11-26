@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "date_display": "NOV 26, 2026",
+  "band_key": "beginner",
+  "band_label": "Beginner",
+  "rank_requested": "13k",
+  "rank_display": "13K",
+  "problem_id": "49fc47d8-4475-4a19-a7d9-cdbad6cc24f4",
+  "description": "Black to play",
+  "player": "black",
+  "board_size": 19,
+  "crop": {
+    "x": 0,
+    "y": 10,
+    "side": 9
+  },
+  "grid_x": [
+    {
+      "p": 92,
+      "l": "A"
+    },
+    {
+      "p": 132,
+      "l": "B"
+    },
+    {
+      "p": 172,
+      "l": "C"
+    },
+    {
+      "p": 212,
+      "l": "D"
+    },
+    {
+      "p": 252,
+      "l": "E"
+    },
+    {
+      "p": 292,
+      "l": "F"
+    },
+    {
+      "p": 332,
+      "l": "G"
+    },
+    {
+      "p": 372,
+      "l": "H"
+    },
+    {
+      "p": 412,
+      "l": "J"
+    }
+  ],
+  "grid_y": [
+    {
+      "p": 102,
+      "l": "9"
+    },
+    {
+      "p": 142,
+      "l": "8"
+    },
+    {
+      "p": 182,
+      "l": "7"
+    },
+    {
+      "p": 222,
+      "l": "6"
+    },
+    {
+      "p": 262,
+      "l": "5"
+    },
+    {
+      "p": 302,
+      "l": "4"
+    },
+    {
+      "p": 342,
+      "l": "3"
+    },
+    {
+      "p": 382,
+      "l": "2"
+    },
+    {
+      "p": 422,
+      "l": "1"
+    }
+  ],
+  "stones": [
+    {
+      "x": 132,
+      "y": 142,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 142,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 142,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 182,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 222,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 262,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 302,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 342,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 382,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 252,
+      "y": 102,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 302,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 182,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 262,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 172,
+      "y": 182,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 182,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 222,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 262,
+      "c": "W",
+      "r": 14
+    }
+  ],
+  "moves": [
+    {
+      "x": 92,
+      "y": 302,
+      "c": "B",
+      "n": 1,
+      "coord": "A-4",
+      "r": 14,
+      "ly": 314
+    },
+    {
+      "x": 172,
+      "y": 222,
+      "c": "W",
+      "n": 2,
+      "coord": "C-6",
+      "r": 14,
+      "ly": 338
+    },
+    {
+      "x": 92,
+      "y": 222,
+      "c": "B",
+      "n": 3,
+      "coord": "A-6",
+      "r": 14,
+      "ly": 362
+    },
+    {
+      "x": 92,
+      "y": 182,
+      "c": "W",
+      "n": 4,
+      "coord": "A-7",
+      "r": 14,
+      "ly": 386
+    },
+    {
+      "x": 92,
+      "y": 262,
+      "c": "B",
+      "n": 5,
+      "coord": "A-5",
+      "r": 14,
+      "ly": 410
+    }
+  ],
+  "solution_line": [
+    {
+      "n": 1,
+      "c": "B",
+      "coord": "A-4"
+    },
+    {
+      "n": 2,
+      "c": "W",
+      "coord": "C-6"
+    },
+    {
+      "n": 3,
+      "c": "B",
+      "coord": "A-6"
+    },
+    {
+      "n": 4,
+      "c": "W",
+      "coord": "A-7"
+    },
+    {
+      "n": 5,
+      "c": "B",
+      "coord": "A-5"
+    }
+  ],
+  "more_moves_label": "",
+  "sgf_content": "(;GM[1]FF[4]SZ[19]TM[1800,0,30,5]AW[bp][cp][dp][dm][do][cm][bm]AB[bl][cl][dl][em]AW[dn]AB[en][eo][ep][dq][cq][bq][br][ek]AW[bo]AE[cn](;B[ap]CR[ap];W[cn]CR[cn](;B[an]CR[an];W[am]CR[am];B[ao]CR[ao]C[CORRECT])(;B[ao]CR[ao];W[an]CR[an])(;B[am]CR[am];W[an]CR[an]))(;B[cn]CR[cn];W[ap]CR[ap](;B[an]CR[an];W[am]CR[am];B[bn]CR[bn])(;B[am]CR[am];W[an]CR[an])(;B[bn]CR[bn];W[an]CR[an])(;B[al]CR[al];W[bn]CR[bn]))(;B[am]CR[am];W[an]CR[an](;B[ap]CR[ap];W[cn]CR[cn])(;B[cn]CR[cn];W[ap]CR[ap]))(;B[an]CR[an];W[am]CR[am](;B[ap]CR[ap];W[bn]CR[bn](;B[ao]CR[ao];W[aq]CR[aq])(;B[aq]CR[aq];W[ao]CR[ao]))(;B[bn]CR[bn];W[cn]CR[cn])(;B[ao]CR[ao];W[ap]CR[ap](;B[cn]CR[cn];W[bn]CR[bn])(;B[bn]CR[bn];W[cn]CR[cn])))(;B[ao]CR[ao];W[an]CR[an](;B[cn]CR[cn];W[ap]CR[ap])(;B[ap]CR[ap];W[cn]CR[cn])))"
+}
