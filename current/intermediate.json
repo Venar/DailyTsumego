@@ -1,178 +1,136 @@
 {
   "schema_version": 1,
-  "date": "2026-11-26",
-  "date_display": "NOV 26, 2026",
+  "date": "2026-11-27",
+  "date_display": "NOV 27, 2026",
   "band_key": "intermediate",
   "band_label": "Intermediate",
-  "rank_requested": "9k",
-  "rank_display": "9K",
-  "problem_id": "c64d9cc5-872a-4463-9148-8a8cfbd87d52",
+  "rank_requested": "5k",
+  "rank_display": "5K",
+  "problem_id": "655c136e-3573-4c4d-8179-020de5a02288",
   "description": "Black to play",
   "player": "black",
   "board_size": 19,
   "crop": {
-    "x": 1,
-    "y": 10,
+    "x": 10,
+    "y": 8,
     "side": 9
   },
   "grid_x": [
     {
       "p": 92,
-      "l": "B"
+      "l": "L"
     },
     {
       "p": 132,
-      "l": "C"
+      "l": "M"
     },
     {
       "p": 172,
-      "l": "D"
+      "l": "N"
     },
     {
       "p": 212,
-      "l": "E"
+      "l": "O"
     },
     {
       "p": 252,
-      "l": "F"
+      "l": "P"
     },
     {
       "p": 292,
-      "l": "G"
+      "l": "Q"
     },
     {
       "p": 332,
-      "l": "H"
+      "l": "R"
     },
     {
       "p": 372,
-      "l": "J"
+      "l": "S"
     },
     {
       "p": 412,
-      "l": "K"
+      "l": "T"
     }
   ],
   "grid_y": [
     {
       "p": 102,
-      "l": "9"
+      "l": "11"
     },
     {
       "p": 142,
-      "l": "8"
+      "l": "10"
     },
     {
       "p": 182,
-      "l": "7"
+      "l": "9"
     },
     {
       "p": 222,
-      "l": "6"
+      "l": "8"
     },
     {
       "p": 262,
-      "l": "5"
+      "l": "7"
     },
     {
       "p": 302,
-      "l": "4"
+      "l": "6"
     },
     {
       "p": 342,
-      "l": "3"
+      "l": "5"
     },
     {
       "p": 382,
-      "l": "2"
+      "l": "4"
     },
     {
       "p": 422,
-      "l": "1"
+      "l": "3"
     }
   ],
   "stones": [
     {
-      "x": 132,
-      "y": 302,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 132,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 172,
-      "y": 342,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 212,
-      "y": 302,
-      "c": "B",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 302,
-      "c": "B",
-      "r": 14
-    },
-    {
       "x": 292,
       "y": 302,
       "c": "B",
       "r": 14
     },
     {
-      "x": 132,
-      "y": 262,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 172,
-      "y": 262,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 212,
-      "y": 262,
-      "c": "W",
-      "r": 14
-    },
-    {
-      "x": 252,
-      "y": 262,
-      "c": "W",
-      "r": 14
-    },
-    {
       "x": 292,
-      "y": 262,
-      "c": "W",
+      "y": 382,
+      "c": "B",
       "r": 14
     },
     {
       "x": 332,
-      "y": 302,
+      "y": 142,
+      "c": "B",
+      "r": 14
+    },
+    {
+      "x": 132,
+      "y": 382,
       "c": "W",
       "r": 14
     },
     {
-      "x": 172,
-      "y": 302,
+      "x": 212,
+      "y": 262,
+      "c": "W",
+      "r": 14
+    },
+    {
+      "x": 212,
+      "y": 422,
       "c": "W",
       "r": 14
     },
     {
       "x": 292,
-      "y": 342,
+      "y": 262,
       "c": "W",
       "r": 14
     }
@@ -180,10 +138,10 @@
   "moves": [
     {
       "x": 252,
-      "y": 382,
+      "y": 262,
       "c": "B",
       "n": 1,
-      "coord": "F-2",
+      "coord": "P-7",
       "r": 14,
       "ly": 314
     }
@@ -192,9 +150,9 @@
     {
       "n": 1,
       "c": "B",
-      "coord": "F-2"
+      "coord": "P-7"
     }
   ],
   "more_moves_label": "",
-  "sgf_content": "(;FF[4]GM[1]SZ[19]AB[cp][cq][dq][ep][fp][gp]AW[co][do][eo][fo][go][hp][dp][gq];B[fr]C[CORRECT])"
+  "sgf_content": "(;FF[4]GM[1]SZ[19]AB[bg][bn][cf][cp][cq][db][de][df][di][dk][dn][do][eb][ec][ed][fd][fe][fn][fo][fq][gn][mc][nb][nd][oc][pd][pf][pn][pp][pr][qf][qj][rf]AW[bb][bd][be][bf][cc][ce][cl][cm][dc][dd][dp][el][em][eq][fb][fc][fp][gb][gd][gl][go][gq][hc][ip][kc][lp][nm][nq][ob][pb][pm][qc][qe][re]LB[np:E][om:A][on:D][qm:C][qn:B](;B[om]LB[np:E][om:A][on:D][qm:C][qn:B]C[CORRECT])(;B[qn]LB[np:E][om:A][on:D][qm:C][qn:B])(;B[qm]LB[np:E][om:A][on:D][qm:C][qn:B]C[CORRECT])(;B[on]LB[np:E][om:A][on:D][qm:C][qn:B])(;B[np]LB[np:E][om:A][on:D][qm:C][qn:B];W[oq]))"
 }
